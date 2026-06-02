@@ -8,13 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Diana Macias"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Diana Macias"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://maciasd.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Diana Macias"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "NSF Postdoctoral Research Fellow at UC Berkeley studying the ecology, stewardship, and resilience of pinyon-juniper woodlands."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "UC Berkeley"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dianamacias@berkeley.edu" 
 
   # Academic websites
   academia         : # URL
