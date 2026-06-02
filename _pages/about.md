@@ -1,21 +1,15 @@
 ---
 permalink: /
 title: "About"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
-
-  <div style="flex: 0 0 200px;">
-    <img src="/images/DSM-Headshot.jpg" 
-         width="200" 
-         style="border-radius: 8px;">
-  </div>
-
-  <div style="flex: 1; min-width: 280px;">
+<p align="center">
+  <img src="/images/homepage-landscape.jpg" width="900">
+</p>
 
     <h1>Diana Macias</h1>
 
