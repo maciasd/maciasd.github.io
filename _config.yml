@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Diana Macias"
 title_separator          : "-"
 name                     : &name "Diana Macias"
@@ -26,7 +26,7 @@ author:
   name             : "Diana Macias"
   pronouns         : # example: "she/her"  
   bio              : "NSF Postdoctoral Research Fellow at UC Berkeley studying the ecology, stewardship, and resilience of pinyon-juniper woodlands."
-  location         : "Earth"
+  location         : "Berkeley, CA"
   employer         : "UC Berkeley"
   uri              : # URL
   email            : "dianamacias@berkeley.edu" 
