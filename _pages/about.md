@@ -1,11 +1,15 @@
 ---
 permalink: /
 title: "About"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<p align="center">
+  <img src="/images/DSM-Headshot.jpg" width="260" style="border-radius: 50%;">
+</p>
 
 I am an NSF Postdoctoral Research Fellow in the Department of Environmental Science, Policy, and Management at UC Berkeley. 
 
