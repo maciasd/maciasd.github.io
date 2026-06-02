@@ -11,12 +11,12 @@ redirect_from:
   <img src="/images/homepage-landscape.jpg" width="900">
 </p>
 
-<h1>Diana Macias</h1>
+# Diana Macias
 
-<p><strong>NSF Postdoctoral Research Fellow, UC Berkeley</strong></p>
+**NSF Postdoctoral Research Fellow, UC Berkeley**
 
-<p><strong>How do forests persist in a changing world?</strong></p>
+**How do forests persist in a changing world?**
 
-<p>I study this question across ecology, evolution, genomics, and transdisciplinary collaborations. My work examines how forest species respond to environmental change, from seed production and regeneration to local adaptation and stewardship.</p>
+I study this question across ecology, evolution, genomics, and transdisciplinary collaborations. My work examines how forest species respond to environmental change, from seed production and regeneration to local adaptation and stewardship.
 
-<p>I am especially interested in connecting long-term ecological data, genomic tools, natural history collections, and community-engaged research to support healthier forest landscapes.</p>
+I am especially interested in connecting long-term ecological data, genomic tools, natural history collections, and community-engaged research to support healthier forest landscapes.
