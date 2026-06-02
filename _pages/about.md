@@ -7,21 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an NSF Postdoctoral Research Fellow in the Department of Environmental Science, Policy, and Management at UC Berkeley. My research examines how dryland forests respond to climate change and how communities care for and steward these ecosystems.
+I am an NSF Postdoctoral Research Fellow in the Department of Environmental Science, Policy, and Management at UC Berkeley. 
 
-I combine long-term ecological datasets, field monitoring, genomics, community science, and collaborative partnerships with Tribal Nations to understand forest resilience in the American West.
+My research explores how pinyon woodlands and forests persist in a changing world. I combine ecology, genomics, and community-engaged research to understand how climate change affects forest resilience and how different knowledge systems can contribute to the stewardship of healthy landscapes.
 
 ## Research
 
-My work focuses on four connected areas:
+My work focuses on three connected areas:
 
-- **Forest resilience and regeneration** — how climate shapes cone production, seedling survival, and woodland persistence.
-- **Pinyon–juniper woodlands** — how foundational dryland forests respond to drought, mortality, and shifting regeneration patterns.
-- **Landscape genomics and local adaptation** — how genomic variation, SNPs, and environmental gradients shape adaptation across multiple pinyon pine species.
-- **Community-led stewardship** — how Indigenous-led and community-based monitoring can support more just conservation futures.
+- **Forest resilience and regeneration** — how climate and environmental drivers shape seed production, seedling survival, and woodland persistence.
 
-## Current work
+- **Landscape genomics and local adaptation** — how genomic variation is distributed across environmental gradients and what it reveals about adaptation in pinyon pine species.
 
-I am currently working on projects related to pinyon woodland health, masting and seedling recruitment, landscape genomics of pinyon pine, and social–ecological approaches to forest stewardship.
-
-[Download my CV](/files/Macias_CV.pdf)
+- **Indigenous-led stewardship** — how Indigenous-led and community-based monitoring can support healthy landscapes and long-term woodland care.
