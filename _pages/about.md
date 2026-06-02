@@ -7,20 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="/images/DSM-Headshot.jpg" width="260" style="border-radius: 50%;">
-</p>
+<div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
 
-I am an NSF Postdoctoral Research Fellow in the Department of Environmental Science, Policy, and Management at UC Berkeley. 
+  <div style="flex: 0 0 220px;">
+    <img src="/images/DSM-Headshot.jpg" 
+         width="220" 
+         style="border-radius: 8px;">
+  </div>
 
-My research explores how pinyon woodlands and forests persist in a changing world. I combine ecology, genomics, and community-engaged research to understand how climate change affects forest resilience and how different knowledge systems can contribute to the stewardship of healthy landscapes.
+  <div style="flex: 1; min-width: 280px;">
 
-## Research
+# Diana Macias
 
-My work focuses on three connected areas:
+**NSF Postdoctoral Research Fellow, UC Berkeley**
 
-- **Forest resilience and regeneration** — how climate and environmental drivers shape seed production, seedling survival, and woodland persistence.
+**How do forests persist in a changing world?**
 
-- **Landscape genomics and local adaptation** — how genomic variation is distributed across environmental gradients and what it reveals about adaptation in pinyon pine species.
+I study this question across ecology, evolution, genomics, and transdisciplinary collaborations. My work examines how forest species respond to environmental change, from seed production and regeneration to local adaptation and stewardship.
 
-- **Indigenous-led stewardship** — how Indigenous-led and community-based monitoring can support healthy landscapes and long-term woodland care.
+I am especially interested in connecting long-term ecological data, genomic tools, natural history collections, and community-engaged research to support healthier forest landscapes.
+
+  </div>
+
+</div>
