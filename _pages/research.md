@@ -1,9 +1,8 @@
 ---
-
 permalink: /research/
 title: "Research"
 author_profile: true
---------------------
+---
 
 <p align="center">
   <img src="/images/research-banner.jpg" width="900">
