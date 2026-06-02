@@ -8,7 +8,11 @@ author_profile: true
   <img src="/images/research-banner.jpg" width="900">
 </p>
 
-My research seeks to understand how forests persist in a changing world. I integrate ecology, genomics, and community-engaged research to examine how climate change influences forest resilience and how different knowledge systems contribute to the stewardship of healthy landscapes.
+**How do forests persist in a changing world?**
+
+I study this question across ecology, genomics, and transdisciplinary collaborations.
+
+My work is organized around three connected themes: forest resilience and regeneration, landscape genomics and local adaptation, and Indigenous-led stewardship.
 
 ---
 
