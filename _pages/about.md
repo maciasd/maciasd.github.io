@@ -122,8 +122,5 @@ redirect_from:
 
 <div class="about-research-note">
 
-<p>
-My work brings together long-term ecological data, field-based research, genomics, and community-engaged approaches to understand forest resilience and support healthier forests and landscapes.
-</p>
 
 </div>
