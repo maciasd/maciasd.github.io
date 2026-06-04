@@ -41,3 +41,23 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Make sidebar profile larger */
+.author__avatar img {
+  max-width: 220px;
+  border-radius: 50%;
+}
+
+.author__name {
+  font-size: 1.35em;
+}
+
+.author__bio {
+  font-size: 1.05em;
+  line-height: 1.5;
+}
+
+.author__urls {
+  font-size: 1.05em;
+  line-height: 1.7;
+}
