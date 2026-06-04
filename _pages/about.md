@@ -1,4 +1,4 @@
----
+\---
 permalink: /
 title: ""
 author_profile: true
@@ -7,28 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-<div style="max-width: 900px;">
-
-<h1 style="font-size: 2.2em; line-height: 1.25; margin-bottom: 25px;">
-How do forests persist in a changing world?
-</h1>
-
 <p align="center">
-  <img src="/images/homepage-landscape.jpg" width="900" style="border-radius: 4px;">
+  <img src="/images/DSM-Headshot.jpg" 
+       width="260" 
+       height="260" 
+       style="object-fit: cover; border-radius: 50%;">
 </p>
 
-<div style="font-size: 1.15em; line-height: 1.85; margin-top: 30px;">
+<div style="font-size: 1.15em; line-height: 1.85; max-width: 850px;">
 
 <p>
-I study this question across ecology, evolution, genomics, and transdisciplinary collaborations. My work examines how forest species respond to environmental change, from seed production and regeneration to local adaptation and stewardship.
+I am a forest ecologist and NSF Postdoctoral Research Fellow in the Department of Environmental Science, Policy, and Management at UC Berkeley.
 </p>
 
 <p>
-I am especially interested in connecting long-term ecological data, genomic tools, natural history collections, and community-engaged research to support healthier forest landscapes.
+I study how forest species respond to environmental change, from seed production and regeneration to local adaptation and stewardship. My work brings together long-term ecological data, field studies, genomics, natural history collections, and community-engaged research.
+</p>
+
+<p>
+Across these projects, I am interested in how forests persist in a changing world and how ecological knowledge can support healthier landscapes.
 </p>
 
 </div>
-
-</div>
-
-
