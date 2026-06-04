@@ -22,14 +22,14 @@ author_profile: true
   display: flex;
   gap: 28px;
   align-items: center;
-  text-decoration: none;
-  color: inherit;
+  text-decoration: none !important;
+  color: inherit !important;
   border-bottom: 1px solid #ddd;
   padding-bottom: 32px;
 }
 
-.research-card:hover h2 {
-  text-decoration: underline;
+.research-card:hover {
+  text-decoration: none !important;
 }
 
 .research-card img {
@@ -48,11 +48,17 @@ author_profile: true
   margin-top: 0;
   margin-bottom: 12px;
   font-size: 1.6em;
+  text-decoration: none !important;
+}
+
+.research-card-text p {
+  text-decoration: none !important;
 }
 
 .read-more {
   font-size: 0.95em;
   font-weight: bold;
+  text-decoration: underline !important;
 }
 
 @media (max-width: 700px) {
