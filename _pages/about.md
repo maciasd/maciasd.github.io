@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/images/DSM-Headshot.jpg" 
+  <img src="DSM-Headshot.jpg" 
        width="260" 
        height="260" 
        style="object-fit: cover; border-radius: 50%;">
