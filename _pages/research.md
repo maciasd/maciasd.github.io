@@ -40,14 +40,15 @@ author_profile: true
 
 .research-card-text {
   flex: 1;
-  font-size: 1.1em;
+  font-size: 0.95em;
   line-height: 1.6;
 }
 
 .research-card-text h2 {
   margin-top: 0;
   margin-bottom: 10px;
-  font-size: 1.35em;
+  font-size: 1.25em
+  line-height: 1.25;
   text-decoration: none !important;
 }
 
@@ -56,7 +57,7 @@ author_profile: true
 }
 
 .read-more {
-  font-size: 0.95em;
+  font-size: 0.9em;
   font-weight: bold;
   text-decoration: underline !important;
 }
