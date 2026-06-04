@@ -15,7 +15,7 @@ redirect_from:
 }
 
 .about-card h1 {
-  font-size: 2.8em;
+  font-size: 2.3em;
   line-height: 1.1;
   margin-top: 0;
   margin-bottom: 8px;
