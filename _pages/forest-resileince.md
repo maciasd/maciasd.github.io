@@ -4,13 +4,16 @@ title: "Forest Resilience and Regeneration"
 author_profile: true
 ---
 
-<p align="center">
-  <img src="/images/forest-resilience.jpg" width="850">
-</p>
+<figure style="text-align: center; margin-bottom: 50px;">
+  <img src="/images/forest-resilience.jpg" width="450" alt="Seed production at Sevilleta LTER">
+  <figcaption style="font-size: 0.80em; line-height: 1.4; color: #666; margin-top: 8px;">
+    <em>Seed production changes at Sevilleta LTER (from Macias et al., in review).</em>
+  </figcaption>
+</figure>
 
-Tree regeneration depends on a rare sequence of events: seed production, germination, seedling establishment, and survival. My research examines how climate and environmental drivers shape these processes across forest ecosystems, with a focus on seed production variability, recruitment, and persistence under increasing drought and climatic variability.
+Tree regeneration depends on a rare sequence of events: seed production, germination, seedling establishment, and survival. My research examines how climate and environmental drivers shape these processes, with a focus on seed production variability, recruitment, and persistence under increasing drought and climatic variability.
 
-I am especially interested in how ecological patterns change across scales. In long-term, multi-species datasets, relationships between climate, traits, and seed production can look different when examined across all species and sites, among species within sites, or within species across environmental gradients. This scale dependence matters for understanding when broad ecological patterns reflect shared environmental responses, species traits, or local evolutionary histories.
+I am especially interested in how ecological patterns change across scales. In long-term, multi-species datasets, relationships between climate, traits, and seed production can look different when examined across scales. This scale dependence matters for understanding when broad ecological patterns reflect shared environmental responses, species traits, or local evolutionary histories.
 
 This work contributes to broader questions about forest persistence, range shifts, and population dynamics under global change.
 
