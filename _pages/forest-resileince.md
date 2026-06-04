@@ -4,9 +4,9 @@ title: "Forest Resilience and Regeneration"
 author_profile: true
 ---
 
-<figure style="text-align: center; margin-bottom: 50px;">
+<figure style="text-align: center; margin-bottom: 35px;">
   <img src="/images/forest-resilience.jpg" width="450" alt="Seed production at Sevilleta LTER">
-  <figcaption style="font-size: 0.80em; line-height: 1.4; color: #666; margin-top: 8px;">
+  <figcaption style="font-size: 0.85em; line-height: 1.4; color: #666; margin-top: 8px;">
     <em>Seed production changes at Sevilleta LTER (from Macias et al., in review).</em>
   </figcaption>
 </figure>
