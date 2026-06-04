@@ -75,7 +75,7 @@ author_profile: true
 
 <div class="research-intro">
 
-<h1 style="font-size: 2.2em; line-height: 1.2; margin-bottom: 20px;">
+<h1 style="font-size: 1.5em; line-height: 1.2; margin-bottom: 20px;">
 How do forests persist in a changing world?
 </h1>
 
