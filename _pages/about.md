@@ -9,60 +9,54 @@ redirect_from:
 
 <style>
 .about-card {
-  display: flex;
-  gap: 40px;
-  align-items: center;
-  max-width: 1000px;
-  margin: 30px auto 50px auto;
+  max-width: 1050px;
+  margin: 30px auto 45px auto;
   padding: 40px;
   background: #f7f7f7;
   border-radius: 8px;
-  flex-wrap: wrap;
 }
 
-.about-card-text {
-  flex: 1;
-  min-width: 320px;
-}
-
-.about-card-text h1 {
+.about-card h1 {
   font-size: 2.8em;
   line-height: 1.1;
   margin-top: 0;
   margin-bottom: 8px;
 }
 
-.about-card-text h2 {
+.about-card h2 {
   font-size: 1.5em;
   font-style: italic;
   margin-top: 0;
-  margin-bottom: 28px;
+  margin-bottom: 25px;
 }
 
-.about-card-text p {
-  font-size: 1.12em;
+.about-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 300px;
+  gap: 35px;
+  align-items: start;
+}
+
+.about-text {
+  font-size: 1.05em;
   line-height: 1.75;
 }
 
-.about-card-photo {
-  flex: 0 0 330px;
-}
-
-.about-card-photo img {
-  width: 330px;
+.about-photo img {
+  width: 300px;
   max-width: 100%;
   height: auto;
   border-radius: 6px;
 }
 
 .about-landscape {
-  max-width: 1000px;
-  margin: 0 auto 30px auto;
+  max-width: 1050px;
+  margin: 0 auto 25px auto;
 }
 
 .about-landscape img {
   width: 100%;
-  height: 310px;
+  height: 300px;
   object-fit: cover;
   border-radius: 6px;
 }
@@ -70,25 +64,25 @@ redirect_from:
 .about-research-note {
   max-width: 850px;
   margin: 0 auto;
-  font-size: 1.15em;
-  line-height: 1.8;
+  font-size: 1.1em;
+  line-height: 1.75;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
+  .about-row {
+    grid-template-columns: 1fr;
+  }
+
+  .about-photo img {
+    width: 100%;
+  }
+
   .about-card {
     padding: 25px;
   }
 
-  .about-card-text h1 {
+  .about-card h1 {
     font-size: 2.2em;
-  }
-
-  .about-card-photo {
-    flex: 0 0 100%;
-  }
-
-  .about-card-photo img {
-    width: 100%;
   }
 
   .about-landscape img {
@@ -99,23 +93,27 @@ redirect_from:
 
 <div class="about-card">
 
-  <div class="about-card-text">
+  <h1>Diana Macias</h1>
+  <h2>Forest ecologist</h2>
 
-    <h1>Diana Macias</h1>
-    <h2>Forest ecologist</h2>
+  <div class="about-row">
 
-    <p>
-    I am a forest ecologist and NSF Postdoctoral Research Fellow in the Department of Environmental Science, Policy, and Management at UC Berkeley.
-    </p>
+    <div class="about-text">
 
-    <p>
-    I study how tree species respond to environmental change, from ecological processes such as seed production and regeneration to evolutionary patterns of local adaptation.
-    </p>
+      <p>
+      I am a forest ecologist and NSF Postdoctoral Research Fellow in the Department of Environmental Science, Policy, and Management at UC Berkeley.
+      </p>
 
-  </div>
+      <p>
+      I study how tree species respond to environmental change, from ecological processes such as seed production and regeneration to evolutionary patterns of local adaptation.
+      </p>
 
-  <div class="about-card-photo">
-    <img src="/images/DSM_Headshot.jpg" alt="Diana Macias">
+    </div>
+
+    <div class="about-photo">
+      <img src="/images/DSM_Headshot.jpg" alt="Diana Macias">
+    </div>
+
   </div>
 
 </div>
@@ -127,7 +125,7 @@ redirect_from:
 <div class="about-research-note">
 
 <p>
-My work brings together long-term ecological data, field-based research, genomics, and community-engaged approaches to understand forest resilience and support healthier landscapes.
+My work brings together long-term ecological data, field-based research, genomics, and community-engaged approaches to understand forest resilience and support healthier forests and landscapes.
 </p>
 
 </div>
