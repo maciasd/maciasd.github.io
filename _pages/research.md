@@ -75,9 +75,13 @@ author_profile: true
 
 <div class="research-intro">
 
-<strong>How do forests persist in a changing world?</strong>
+<h1 style="font-size: 2.2em; line-height: 1.2; margin-bottom: 20px;">
+How do forests persist in a changing world?
+</h1>
 
-I study this question across ecology, evolution, genomics, and transdisciplinary collaborations. My research connects long-term ecological data, genomic tools, natural history collections, and stewardship partnerships to understand forest resilience across scales.
+<p style="font-size: 1.15em; line-height: 1.8;">
+My research explores this question through three connected projects spanning forest resilience and regeneration, landscape genomics and local adaptation, and Indigenous-led stewardship.
+</p>
 
 </div>
 
@@ -104,7 +108,7 @@ I study this question across ecology, evolution, genomics, and transdisciplinary
 <a class="research-card" href="/research/indigenous-stewardship/">
   <img src="/images/stewardship.jpg" alt="Indigenous-led stewardship">
   <div class="research-card-text">
-    <h2>Indigenous-Led Stewardship</h2>
+    <h2>Indigenous-led Stewardship</h2>
     <p>I work with Tribal Nations, students, local organizations, and land managers to support monitoring, woodland care, and healthy landscapes.</p>
     <p class="read-more">Read more →</p>
   </div>
