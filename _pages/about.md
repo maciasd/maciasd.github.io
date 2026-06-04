@@ -116,11 +116,3 @@ redirect_from:
 
 </div>
 
-<div class="about-landscape">
-  <img src="/images/homepage-landscape.jpg" alt="Forest landscape">
-</div>
-
-<div class="about-research-note">
-
-
-</div>
