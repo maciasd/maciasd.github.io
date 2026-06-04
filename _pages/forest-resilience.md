@@ -4,16 +4,16 @@ title: "Forest Resilience and Regeneration"
 author_profile: true
 ---
 
+<p style="font-size: 1.05em; line-height: 1.7;">
+My work in forest resilience and regeneration asks how climate, species traits, and ecological context shape the processes that allow forests to persist.
+</p>
+
 <figure style="text-align: center; margin-bottom: 25px;">
   <img src="/images/forest-resilience.jpg" width="380" alt="Seed production at Sevilleta LTER">
   <figcaption style="font-size: 0.95em; line-height: 1.4; color: #666; margin-top: 8px;">
     <em>Seed production changes at Sevilleta LTER (from Macias et al., in review).</em>
   </figcaption>
 </figure>
-
-## Forest Resilience and Regeneration
-
-My work in forest resilience and regeneration asks how climate, species traits, and ecological context shape the processes that allow forests to persist.
 
 ### What controls seed production across years?
 
