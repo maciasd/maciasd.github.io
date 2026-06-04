@@ -80,7 +80,7 @@ How do forests persist in a changing world?
 </h1>
 
 <p style="font-size: 1.15em; line-height: 1.8;">
-My research explores this question through three connected projects spanning forest resilience and regeneration, landscape genomics and local adaptation, and Indigenous-led stewardship.
+My research explores this question through three connected projects.
 </p>
 
 </div>
