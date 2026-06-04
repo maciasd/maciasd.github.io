@@ -33,11 +33,14 @@ author_profile: true
 }
 
 .research-card img {
-  width: 330px;
   max-width: 100%;
   border-radius: 8px;
 }
 
+.small-image {
+  width: 240px;
+}
+  
 .research-card-text {
   flex: 1;
   font-size: 0.95em;
@@ -98,7 +101,10 @@ My research explores this question through three connected projects.
 </a>
 
 <a class="research-card" href="/research/landscape-genomics/">
+  <div class="research-card-image small-image">
   <img src="/images/landscape-genomics.jpg" alt="Landscape genomics and local adaptation">
+  </div>  
+  
   <div class="research-card-text">
     <h2>Landscape Genomics and Local Adaptation</h2>
     <p>I use genomic, trait, voucher, and environmental data to understand local adaptation in widespread pinyon pine species.</p>
