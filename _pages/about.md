@@ -1,31 +1,33 @@
-\---
+---
 permalink: /
 title: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<p align="center">
-  <img src="/images/DSM_Headshot.jpg" 
-       width="260" 
-       height="260" 
-       style="object-fit: cover; border-radius: 50%;">
-</p>
+<div style="display: flex; align-items: flex-start; gap: 35px; flex-wrap: wrap; max-width: 950px; margin-top: 20px;">
 
-<div style="font-size: 1.15em; line-height: 1.85; max-width: 850px;">
+  <div style="flex: 0 0 280px;">
+    <img src="/images/DSM-Headshot.jpg" 
+         style="width: 280px; max-width: 100%; height: auto; border-radius: 8px;">
+  </div>
 
-<p>
-I am a forest ecologist and NSF Postdoctoral Research Fellow in the Department of Environmental Science, Policy, and Management at UC Berkeley.
-</p>
+  <div style="flex: 1; min-width: 300px; font-size: 1.15em; line-height: 1.85;">
 
-<p>
-I study how forest species respond to environmental change, from seed production and regeneration to local adaptation and stewardship. My work brings together long-term ecological data, field studies, genomics, natural history collections, and community-engaged research.
-</p>
+    <p>
+    I am a forest ecologist and NSF Postdoctoral Research Fellow in the Department of Environmental Science, Policy, and Management at UC Berkeley.
+    </p>
 
-<p>
-Across these projects, I am interested in how forests persist in a changing world and how ecological knowledge can support healthier landscapes.
-</p>
+    <p>
+    I study how forest species respond to environmental change, from seed production and regeneration to local adaptation and stewardship. My work brings together long-term ecological data, field studies, genomics, natural history collections, and community-engaged research.
+    </p>
+
+    <p>
+    Across these projects, I am interested in how forests persist in a changing world and how ecological knowledge can support healthier landscapes.
+    </p>
+
+  </div>
 
 </div>
