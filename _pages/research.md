@@ -34,11 +34,14 @@ author_profile: true
 
 .research-card-image {
   flex: 0 0 240px;
+  width: 240px;
 }  
   
 .research-card-image img {
   width: 240px;
-  max-width: 100%;
+  height: 170px;
+  object-fit: cover;
+  object-position: center;
   border-radius: 8px;
 }
   
@@ -75,6 +78,7 @@ author_profile: true
   .research-card-image {
     flex: 0 0 auto;
     width: 100%;
+    height: auto;
   }
 
   .research-card img {
