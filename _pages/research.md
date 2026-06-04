@@ -6,9 +6,9 @@ author_profile: true
 
 <style>
 .research-intro {
-  font-size: 1.18em;
-  line-height: 1.8;
-  margin-bottom: 35px;
+  font-size: 1em;
+  line-height: 1.6;
+  margin-bottom: 30px;
   max-width: 900px;
 }
 
@@ -41,13 +41,13 @@ author_profile: true
 .research-card-text {
   flex: 1;
   font-size: 1.1em;
-  line-height: 1.75;
+  line-height: 1.6;
 }
 
 .research-card-text h2 {
   margin-top: 0;
-  margin-bottom: 12px;
-  font-size: 1.6em;
+  margin-bottom: 10px;
+  font-size: 1.35em;
   text-decoration: none !important;
 }
 
@@ -75,11 +75,11 @@ author_profile: true
 
 <div class="research-intro">
 
-<h1 style="font-size: 1.5em; line-height: 1.2; margin-bottom: 20px;">
+<h1 style="font-size: 1.3em; line-height: 1.2; margin-bottom: 12px;">
 How do forests persist in a changing world?
 </h1>
 
-<p style="font-size: 1.15em; line-height: 1.8;">
+<p style="font-size: 1em; line-height: 1.6;">
 My research explores this question through three connected projects.
 </p>
 
