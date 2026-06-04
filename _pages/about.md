@@ -12,8 +12,6 @@ redirect_from:
   max-width: 1050px;
   margin: 30px auto 45px auto;
   padding: 40px;
-  background: #f7f7f7;
-  border-radius: 8px;
 }
 
 .about-card h1 {
@@ -93,7 +91,7 @@ redirect_from:
 
 <div class="about-card">
 
-  <h1>Diana Macias</h1>
+  <h1> Dr. Diana Macias</h1>
   <h2>Forest ecologist</h2>
 
   <div class="about-row">
@@ -101,11 +99,11 @@ redirect_from:
     <div class="about-text">
 
       <p>
-      I am a forest ecologist and NSF Postdoctoral Research Fellow in the Department of Environmental Science, Policy, and Management at UC Berkeley.
+      I am an NSF Postdoctoral Research Fellow in the Department of Environmental Science, Policy, and Management at UC Berkeley.
       </p>
 
       <p>
-      I study how tree species respond to environmental change, from ecological processes such as seed production and regeneration to evolutionary patterns of local adaptation.
+      I study how trees respond to environmental change, from ecological processes such as seed production and regeneration to evolutionary patterns of local adaptation.
       </p>
 
     </div>
