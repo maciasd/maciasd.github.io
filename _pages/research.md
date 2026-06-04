@@ -93,8 +93,7 @@ My research explores this question through three connected projects.
 
 <a class="research-card" href="/research/forest-resilience/">
   <img src="/images/forest-resilience.jpg" alt="Forest resilience and regeneration">
-  <div class="research-card-text">
-    <h2>Forest Resilience and Regeneration</h2>
+ <div class="research-card-image small-image">    <h2>Forest Resilience and Regeneration</h2>
     <p>I study how climate and environmental drivers shape seed production, seedling survival, and forest persistence across species, sites, and scales.</p>
     <p class="read-more">Read more →</p>
   </div>
@@ -114,8 +113,7 @@ My research explores this question through three connected projects.
 
 <a class="research-card" href="/research/indigenous-stewardship/">
   <img src="/images/stewardship.jpg" alt="Indigenous-led stewardship">
-  <div class="research-card-text">
-    <h2>Indigenous-led Stewardship</h2>
+ <div class="research-card-image small-image">    <h2>Indigenous-led Stewardship</h2>
     <p>I work with Tribal Nations, students, local organizations, and land managers to support monitoring, woodland care, and healthy landscapes.</p>
     <p class="read-more">Read more →</p>
   </div>
