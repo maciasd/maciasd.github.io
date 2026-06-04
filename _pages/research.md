@@ -32,13 +32,14 @@ author_profile: true
   text-decoration: none !important;
 }
 
-.research-card img {
+.research-card-image {
+  flex: 0 0 240px;
+}  
+  
+.research-card-image img {
+  width: 240px;
   max-width: 100%;
   border-radius: 8px;
-}
-
-.small-image {
-  width: 240px;
 }
   
 .research-card-text {
@@ -71,6 +72,11 @@ author_profile: true
     align-items: flex-start;
   }
 
+  .research-card-image {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+
   .research-card img {
     width: 100%;
   }
@@ -84,7 +90,7 @@ How do forests persist in a changing world?
 </h1>
 
 <p style="font-size: 1em; line-height: 1.6;">
-My research explores this question through three connected projects.
+My research explores this question through three major topics.
 </p>
 
 </div>
@@ -92,15 +98,19 @@ My research explores this question through three connected projects.
 <div class="research-grid">
 
 <a class="research-card" href="/research/forest-resilience/">
-  <img src="/images/forest-resilience.jpg" alt="Forest resilience and regeneration">
- <div class="research-card-image small-image">    <h2>Forest Resilience and Regeneration</h2>
+ <div class="research-card-image">   
+   <img src="/images/forest-resilience.jpg" alt="Forest resilience and regeneration">
+  </div>  
+
+  <div class="research-card-text">
+   <h2>Forest Resilience and Regeneration</h2>
     <p>I study how climate and environmental drivers shape seed production, seedling survival, and forest persistence across species, sites, and scales.</p>
     <p class="read-more">Read more →</p>
   </div>
 </a>
 
 <a class="research-card" href="/research/landscape-genomics/">
-  <div class="research-card-image small-image">
+  <div class="research-card-image">
   <img src="/images/landscape-genomics.jpg" alt="Landscape genomics and local adaptation">
   </div>  
   
@@ -112,8 +122,12 @@ My research explores this question through three connected projects.
 </a>
 
 <a class="research-card" href="/research/indigenous-stewardship/">
-  <img src="/images/stewardship.jpg" alt="Indigenous-led stewardship">
- <div class="research-card-image small-image">    <h2>Indigenous-led Stewardship</h2>
+ <div class="research-card-image">   
+   <img src="/images/stewardship.jpg" alt="Indigenous-led stewardship">
+</div>
+
+<div class="research-card-text">   
+   <h2>Indigenous-led Stewardship</h2>
     <p>I work with Tribal Nations, students, local organizations, and land managers to support monitoring, woodland care, and healthy landscapes.</p>
     <p class="read-more">Read more →</p>
   </div>
