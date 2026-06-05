@@ -8,14 +8,14 @@ author_profile: true
 My work in landscape genomics asks how widespread tree species adapt to environmental variation across large geographic ranges.
 </p>
 
-<div style="width: 220px; margin: 0 auto 20px auto;">
+<div style="width: 220px !important; margin: 0 auto 20px auto !important;">
   <img src="/images/landscape-genomics.jpg"
        alt="Population structure of Pinus edulis"
-       style="width: 220px !important; max-width: 100%; height: auto; display: block;">
+       style="width: 220px !important; max-width: 100%; height: auto; display: block !important; margin: 0 !important;">
 
-  <p style="font-size: 0.95em; line-height: 1.4; color: #666; margin-top: 8px; text-align: left;">
+  <div style="font-size: 0.95em; line-height: 1.4; color: #666; margin-top: 8px; text-align: left !important; display: block !important;">
     <em>Population structure of <i>Pinus edulis</i> (Macias et al., in prep).</em>
-  </p>
+  </div>
 </div>
 
 ### How is genetic variation distributed across landscapes?
