@@ -80,14 +80,20 @@ My outreach and public engagement work focuses on making ecological research acc
 <h2>PiCCA Project</h2>
 
 <p>
-The Pinyon Community Climate Action Project brings together ecological research, community partnerships, and stewardship efforts focused on pinyon woodlands.
+The Pinyon Community Climate Action Project brings together ecological research, community partnerships, and stewardship efforts focused on pinyon–juniper woodlands.
 </p>
 
 <div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/v=OitBeLB6pPc&t=33s"
-          title="PiCCA Project video"
+  <iframe src="https://www.youtube.com/embed/OitBeLB6pPc?start=86"
+          title="Pinyon Community Climate Action Project"
           allowfullscreen>
   </iframe>
+</div>
+
+<p>
+Learn more about the project at <a href="https://www.pinyonjuniper.org/">pinyonjuniper.org</a>.
+</p>
+
 </div>
 
 </div>
@@ -100,12 +106,10 @@ The Pinyon Community Climate Action Project brings together ecological research,
 In this Spanish-language interview, I discuss my research and the importance of understanding forest change, climate impacts, and community-engaged science.
 </p>
 
-<div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID_HERE" 
-          title="Telemundo interview with Diana Macias"
-          allowfullscreen>
-  </iframe>
-</div>
+<video controls style="width: 100%; max-width: 850px; border-radius: 6px;">
+  <source src="/videos/planeta-tierra.MP4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 </div>
 
