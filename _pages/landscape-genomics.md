@@ -8,12 +8,14 @@ author_profile: true
 My work in landscape genomics asks how widespread tree species adapt to environmental variation across large geographic ranges.
 </p>
 
-<div style="width: 220px !important; margin: 0 auto 20px auto !important;">
-  <img src="/images/landscape-genomics.jpg"
-       alt="Population structure of Pinus edulis"
-       style="width: 220px !important; max-width: 100%; height: auto; display: block !important; margin: 0 !important;">
+<div style="width: 220px !important; margin-left: auto !important; margin-right: auto !important; margin-bottom: 20px !important;">
+  <div style="width: 220px !important;">
+    <img src="/images/landscape-genomics.jpg"
+         alt="Population structure of Pinus edulis"
+         style="width: 220px !important; max-width: 220px !important; height: auto !important; display: block !important; margin: 0 !important; padding: 0 !important;">
+  </div>
 
-  <div style="font-size: 0.95em; line-height: 1.4; color: #666; margin-top: 8px; text-align: left !important; display: block !important;">
+  <div style="width: 220px !important; max-width: 220px !important; display: block !important; clear: both !important; text-align: left !important; font-size: 0.8em !important; line-height: 1.4 !important; color: #666 !important; margin-top: 8px !important;">
     <em>Population structure of <i>Pinus edulis</i> (Macias et al., in prep).</em>
   </div>
 </div>
