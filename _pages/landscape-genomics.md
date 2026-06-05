@@ -13,7 +13,7 @@ My work in landscape genomics asks how widespread tree species adapt to environm
        alt="Population structure of Pinus edulis"
        style="width: 220px !important; max-width: 100%; height: auto; display: block;">
 
-  <p style="font-size: 0.8em; line-height: 1.4; color: #666; margin-top: 8px; text-align: left;">
+  <p style="font-size: 0.95em; line-height: 1.4; color: #666; margin-top: 8px; text-align: left;">
     <em>Population structure of <i>Pinus edulis</i> (Macias et al., in prep).</em>
   </p>
 </div>
