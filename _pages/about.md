@@ -106,6 +106,14 @@ redirect_from:
       I study how trees respond to environmental change, from ecological processes such as seed production and regeneration to evolutionary patterns of local adaptation.
       </p>
 
+      <p>
+My research combines long-term ecological data, field-based research, genomics, natural history collections, and community-engaged collaborations to understand how forests persist in a changing world.
+</p>
+
+<p>
+Across my work, I am interested in how ecological knowledge and stewardship can support healthier forests and landscapes.
+</p>
+
     </div>
 
     <div class="about-photo">
