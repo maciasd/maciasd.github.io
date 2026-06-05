@@ -9,6 +9,7 @@ My work in Indigenous-led stewardship asks how ecological monitoring, community 
 </p>
 
 <figure style="text-align: center; margin-bottom: 25px;">
+   <div style="display: inline-block; text-align: left;">
   <img src="/images/stewardship.jpg"
     alt="Indigenous-led stewardship and community-based monitoring"
     style="width: 350px !important; max-width: 100%; height: auto;">
