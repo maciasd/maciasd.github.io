@@ -96,8 +96,6 @@ Learn more about the project at <a href="https://www.pinyonjuniper.org/">pinyonj
 
 </div>
 
-</div>
-
 <div class="video-section">
 
 <h2>Telemundo Interview</h2>
