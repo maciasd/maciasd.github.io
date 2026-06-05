@@ -54,7 +54,7 @@ author_profile: true
 .research-card-text h2 {
   margin-top: 0;
   margin-bottom: 10px;
-  font-size: 1.25em
+  font-size: 1.25em;
   line-height: 1.25;
   text-decoration: none !important;
 }
@@ -70,9 +70,20 @@ author_profile: true
 }
 
 @media (max-width: 700px) {
+  .research-intro {
+    margin-bottom: 55px;
+  }
+
+  .research-grid {
+    gap: 55px;
+  }
+
   .research-card {
     flex-direction: column;
     align-items: flex-start;
+    gap: 18px;
+    padding-bottom: 45px;
+    margin-bottom: 5px;
   }
 
   .research-card-image {
@@ -81,8 +92,25 @@ author_profile: true
     height: auto;
   }
 
-  .research-card img {
+  .research-card-image img {
     width: 100%;
+    height: 190px;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .research-card-text {
+    font-size: 0.95em;
+    line-height: 1.65;
+  }
+
+  .research-card-text h2 {
+    margin-top: 0;
+    margin-bottom: 12px;
+  }
+
+  .read-more {
+    margin-top: 14px;
   }
 }
 </style>
