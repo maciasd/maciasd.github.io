@@ -13,7 +13,7 @@ My work in Indigenous-led stewardship asks how ecological monitoring, community 
   <img src="/images/stewardship.jpg"
     alt="Indigenous-led stewardship and community-based monitoring"
     style="width: 375px !important; max-width: 100%; height: auto;">
-  <figcaption style="font-size: 0.85em; line-height: 1.4; color: #666; margin-top: 8px;">
+  <figcaption style="font-size: 0.95em; line-height: 1.4; color: #666; margin-top: 8px;">
     <em>Indigenous-led monitoring of pinyon woodland health, cone production, and juvenile density across the Eastern Sierra Nevada and Great Basin (from Macias et al., in review).</em>
   </figcaption>
  </div>     
