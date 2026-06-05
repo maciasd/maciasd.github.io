@@ -111,7 +111,7 @@ My research combines long-term ecological data, field-based research, genomics, 
 </p>
 
 <p>
-Across my work, I am interested in how ecological knowledge and stewardship can support healthier forests and landscapes.
+Across my work, I am interested in how stewardship, ecological knowledge, including Indigenous Knowledge Systems, can support healthier forests and landscapes.
 </p>
 
     </div>
