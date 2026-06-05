@@ -9,16 +9,19 @@ My work in Indigenous-led stewardship asks how ecological monitoring, community 
 </p>
 
 <figure style="text-align: center; margin-bottom: 25px;">
-  <img src="/images/stewardship.jpg" width="300" alt="Indigenous-led stewardship and community-based monitoring">
+  <img src="/images/stewardship.jpg" width="200" alt="Indigenous-led stewardship and community-based monitoring">
+  <figcaption style="font-size: 0.85em; line-height: 1.4; color: #666; margin-top: 8px;">
+    <em>Indigenous-led monitoring of pinyon woodland health, cone production, and juvenile density across the Eastern Sierra Nevada and Great Basin (from Macias et al., in review).</em>
+  </figcaption>
 </figure>
 
 ### How can monitoring support woodland care?
 
-In pinyon–juniper woodlands of the Eastern Sierra Nevada and Great Basin, I work with Tribal Nations, students, local organizations, and land managers to monitor woodland health, cone production, regeneration, and landscape change. This work centers Tribal priorities and supports monitoring approaches that are useful for stewardship decision-making.
+In pinyon–juniper woodlands of the Eastern Sierra Nevada and Great Basin, I work with Tribal Nations, students, local organizations, and land managers to monitor woodland health, cone production, regeneration, and landscape change. This work centers Tribal priorities and supports monitoring approaches that are useful for adapative stewardship.
 
 ### What does it mean to care for a landscape?
 
-Healthy landscapes depend not only on ecological processes, but also on long-term relationships between people and place. My community-engaged research examines care as both an ecological and social process: something built through repeated presence, knowledge, responsibility, and the capacity to respond to environmental change.
+Healthy landscapes depend on ecological processes and the long-term relationships between people and place. My community-engaged research examines care as both an ecological and social process: something built through repeated presence, knowledge, responsibility, and the capacity to respond to environmental change.
 
 ### How can Indigenous-led stewardship support healthier landscapes?
 
