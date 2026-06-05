@@ -110,11 +110,3 @@ In this Spanish-language interview, I discuss my research and the importance of 
 </video>
 
 </div>
-
-## Media and Public Engagement
-
-<div class="media-list">
-
-Selected media, interviews, and public-facing work coming soon.
-
-</div>
